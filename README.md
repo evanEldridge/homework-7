@@ -10,6 +10,7 @@ This project is ...
 Project is created with:
 * PHP
 * CSS
+* SQL
 	
 ## Setup
 To run this project, ...:
